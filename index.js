@@ -21,6 +21,6 @@ app.get("/", function (req, res) {
 app.use(cors());
 
 // server
-app.listen(8000, function () {
-	console.log(`Listening`);
+const server = app.listen(8000, function () {
+	console.log(`Listening http://localhost:${server.address().port}`);
 });
