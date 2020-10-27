@@ -1,6 +1,6 @@
 ## Pet Store API
 
-Creado bajo la definición de: https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/petstore.yaml con servidor Express
+API Restful creado bajo la definición de: https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v3.0/petstore.yaml con servidor Express
 
 ### Instalando dependencias
 
@@ -13,3 +13,7 @@ Creado bajo la definición de: https://github.com/OAI/OpenAPI-Specification/blob
 ### Demo Live
 
 https://petstoreapi-alexbarba.vercel.app
+
+### Repo
+
+https://github.com/alexbarba/pet-store-api
