@@ -13,6 +13,7 @@
 	"author": "Alexis Barba",
 	"license": "ISC",
 	"dependencies": {
+		"cors": "^2.8.5",
 		"express": "^4.16.4",
 		"express-validator": "^6.6.1"
 	}

@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require("cors");
 
 const petsApiRouter = require("./routes/api/pets");
 
@@ -15,6 +16,9 @@ app.use("/pets", petsApiRouter);
 app.get("/", function (req, res) {
 	res.redirect("/pets");
 });
+
+//cors
+app.use(cors());
 
 // server
 const server = app.listen(8000, function () {
