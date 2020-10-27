@@ -12,7 +12,7 @@ API Restful creado bajo la definición de: https://github.com/OAI/OpenAPI-Specif
 
 ### Demo Live
 
-https://petstoreapi-alexbarba.vercel.app
+https://petstoreapi-alexbarba.herokuapp.com/
 
 ### Repo
 
