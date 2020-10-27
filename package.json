@@ -3,12 +3,15 @@
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
+	"engines": {
+		"node": "12.19.0"
+	},
 	"scripts": {
 		"start": "node index",
 		"dev": "nodemon index"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Alexis Barba",
 	"license": "ISC",
 	"dependencies": {
 		"express": "^4.16.4",
