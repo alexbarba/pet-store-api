@@ -20,5 +20,3 @@ app.get("/", function (req, res) {
 const server = app.listen(8000, function () {
 	console.log(`Listening http://localhost:${server.address().port}`);
 });
-
-server();
