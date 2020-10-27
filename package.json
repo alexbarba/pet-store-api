@@ -7,8 +7,7 @@
 		"node": "12.19.0"
 	},
 	"scripts": {
-		"start": "node index",
-		"dev": "nodemon index"
+		"start": "node index"
 	},
 	"keywords": [],
 	"author": "Alexis Barba",
@@ -16,8 +15,5 @@
 	"dependencies": {
 		"express": "^4.16.4",
 		"express-validator": "^6.6.1"
-	},
-	"devDependencies": {
-		"nodemon": "^1.18.6"
 	}
 }
